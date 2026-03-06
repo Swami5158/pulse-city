@@ -477,22 +477,6 @@ where:
 
 ## 🎨 Design System
 
-### Color Palette
-
-| Token | Hex | Usage |
-|---|---|---|
-| Background | `#06060F` | Page background |
-| Card Surface | `#0C0C1E` | All card and panel surfaces |
-| Border | `#14142A` | Card borders, dividers |
-| Blue | `#60A5FA` | Admin accent, primary actions |
-| Purple | `#A78BFA` | Secondary accent, custom assets |
-| Teal | `#2DD4BF` | Public portal accent |
-| 🟢 Normal | `#10B981` | Utilization below 75% |
-| 🟡 Warning | `#F59E0B` | Utilization 75–90% |
-| 🔴 Critical | `#EF4444` | Utilization above 90% |
-| Text | `#D4D4E8` | Primary body text |
-| Dim Text | `#64748B` | Labels, secondary text |
-
 ### Status Thresholds
 
 ```
@@ -518,30 +502,6 @@ CityWatch directly enables **data-driven city infrastructure management** — th
 
 ---
 
-## 👥 Team
-
-> Built in 19 hours at [Hackathon Name]
-
-| Name | Role |
-|---|---|
-| [Team Member 1] | [Role] |
-| [Team Member 2] | [Role] |
-| [Team Member 3] | [Role] |
-
----
-
-## 📄 License
-
-```
-MIT License — Copyright (c) 2026 CityWatch Team
-Free to use, modify, and distribute with attribution.
-```
-
----
-
-<div align="center">
-
-**CityWatch** — Built for SDG 11 · Powered by React + Gemini AI
 
 *"The best time to fix infrastructure is before it fails."*
 
